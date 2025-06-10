@@ -36,4 +36,12 @@ npm install
 
 # Start the app locally
 npm run dev
+
+# Run test suite
+npm run test
+
 ```
+
+## 🌐 Live Demo
+
+Check out the live app here: [https://bingo-app-lovat.vercel.app](https://bingo-app-lovat.vercel.app)
