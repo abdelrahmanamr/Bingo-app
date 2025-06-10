@@ -81,7 +81,7 @@ const App: React.FC = () => {
   };
 
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen bg-gray-100 p-4 bg-[url(images/weekendImage.jpg)] bg-no-repeat bg-cover bg-center ">
+    <div className="flex flex-col items-center justify-center min-h-screen bg-gray-100 p-4 bg-[url(/images/weekendImage.jpg)] bg-no-repeat bg-cover bg-center ">
       <h1 className="text-3xl font-bold mb-4">Weekend Bingo</h1>
       <BingoBoard
         labels={labels}
